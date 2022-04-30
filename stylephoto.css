@@ -1,0 +1,22 @@
+body{
+  background-image: url("https://swall.teahub.io/photos/small/184-1847252_wall-dark-bw-texture-pattern-iphone-wallpaper-dark.jpg");
+}
+.kartik{
+  font-size: 40px;
+  color:#FFD36E;
+}
+h1{
+  color:white;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width:5%
+}
+h2{
+  color:#A1E3D8;
+}
+table{
+  color: white;
+}
